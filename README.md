@@ -11,8 +11,8 @@
 
 <img align="right" src="https://camo.githubusercontent.com/3f99f3a94add3763271f7a2985fca0e6ffe27530407d3e00182298bec6fc2a1f/68747470733a2f2f696d616765732d63646e2e65786368616e67652e6172742f71736871677230636a716d723570684431744b2d33676e6f6859576d66635877783656576e6b32376f33383f6578743d666173746c79266f7074696d697a653d6d656469756d276a706720" width="200">
 
-- 👋 Hi, I'm **Ritika Malviya**, a passionate **Java Developer** and **B.Tech Computer Science** student at *Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore*.
-- 💻 Experienced in developing and optimizing **Java-based web applications** with **Spring Boot, Hibernate, and MySQL**.
+- 👋 Hi, I'm **Ritika Malviya**, a passionate **Java Developer**.
+- 💻 Experienced in developing and optimizing **Java-based web applications** with **Spring Boot**.
 - 🧩 Skilled in designing **RESTful APIs**, managing **database schemas**, and implementing **secure authentication** using **JWT**.
 - 🛠️ Hands-on experience with **frontend technologies** like HTML, CSS, JavaScript, and frameworks like **React**.
 - 🌱 Currently improving my **Data Structures & Algorithms**.
