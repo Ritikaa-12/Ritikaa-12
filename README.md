@@ -38,15 +38,23 @@ const ritika = {
 }
 ```
 
-## 🏆 Achievements
+## 🏆 Achievements & Stats
 
-I’m a passionate developer with hands-on experience in Java, Spring Boot, MySQL, JSP, and front-end technologies.  
-During my journey, I have:  
+<div align="center">
 
-- 💼 Completed a **Java Programming Internship** at *InterPe* — improved execution efficiency by **30%** and optimized REST APIs.  
-- 🏗️ Built a **Hospital Appointment Management System** using *Spring Boot, MySQL, and JWT* — improved scheduling accuracy by **98%**.  
-- 🧩 Developed a **Student Exam Record System** using *JSP and MySQL* — reduced data entry time by **60%**.  
-- 🧠 Solved **150+ Data Structures and Algorithms problems** on *LeetCode*, enhancing my problem-solving skills and optimization techniques.
+<br/>
+<a href="https://github.com/Ritikaa-12">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikaa-12&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
+
+</div>
+
+### 📊 GitHub Activity
+<div align="center">
+
+[![Ritika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritikaa-12&theme=react-dark&hide_border=true)](https://github.com/Ritikaa-12)
+
+</div>
 
 
 
