@@ -16,7 +16,6 @@
 - 🧩 Skilled in designing **RESTful APIs**, managing **database schemas**, and implementing **secure authentication** using **JWT**.
 - 🛠️ Hands-on experience with **frontend technologies** like HTML, CSS, JavaScript, and frameworks like **React**.
 - 🌱 Currently improving my **Data Structures & Algorithms**.
-- 🎯 I love building projects that blend **performance, design, and real-world problem-solving**.
 
 ---
 
