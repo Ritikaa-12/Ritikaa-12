@@ -24,15 +24,14 @@
 const ritika = {
   pronouns: "She" | "Her",
   code: ["Java", "C++", "C", "JavaScript", "HTML", "CSS", "SQL"],
-  askMeAbout: ["Backend Development", "Spring Boot", "DSA", "Database Design", "Frontend Development"],
+  askMeAbout: ["Backend Development", "Spring Boot", "DSA", "Database Design"],
   technologies: {
-    frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Responsive Web Design"],
     backend: ["Java", "Spring Boot", "Spring MVC", "Hibernate", "JSP", "Servlets"],
     databases: ["MySQL", "SQL Queries", "Database Schema Design", "MongoDB"],
     softwareConcepts: ["OOPS", "DSA", "System Design Principles"],
-    tools: ["Git", "GitHub", "Postman", "Eclipse", "Spring STS", "VS Code", "MySQL Workbench", "Canva", "Figma"]
+    tools: ["Git", "GitHub", "Postman", "Eclipse", "Spring STS", "VS Code", "MySQL Workbench"]
   },
-  currentFocus: ["Spring Boot Projects", "DSA Practice", "Cloud & Deployment", "React Basics"]
+  currentFocus: ["Spring Boot Projects", "DSA Practice"]
 }
 ```
 
