@@ -46,12 +46,7 @@ const ritika = {
 
 </div>
 
-### 📊 GitHub Activity
-<div align="center">
 
-[![Ritika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritikaa-12&theme=react-dark&hide_border=true)](https://github.com/Ritikaa-12)
-
-</div>
 
 
 
