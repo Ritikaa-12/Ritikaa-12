@@ -23,12 +23,12 @@
 ```javascript
 const ritika = {
   pronouns: "She" | "Her",
-  code: ["Java", "C++", "C", "JavaScript", "HTML", "CSS", "SQL"],
+  code: ["Java", "C++", "C", "SQL"],
   askMeAbout: ["Backend Development", "Spring Boot", "DSA", "Database Design"],
   technologies: {
     backend: ["Java", "Spring Boot", "Spring MVC", "Hibernate", "JSP", "Servlets"],
     databases: ["MySQL", "SQL Queries", "Database Schema Design", "MongoDB"],
-    softwareConcepts: ["OOPS", "DSA", "System Design Principles"],
+    softwareConcepts: ["OOPS", "System Design Principles"],
     tools: ["Git", "GitHub", "Postman", "Eclipse", "Spring STS", "VS Code", "MySQL Workbench"]
   },
   currentFocus: ["Spring Boot Projects", "DSA Practice"]
@@ -60,7 +60,6 @@ const ritika = {
 - 🧩 **IMarble** — Spring Boot, REST APIs, MySQL, JavaScript, CSS, HTML  
 - 🏥 **Hospital Appointment Management System** — Spring Boot, MySQL, JWT, REST APIs  
 - 🎓 **Student Exam Record System** — Java, JSP, MySQL  
-- 🧠 Daily practice of **DSA problems** to strengthen logical and problem-solving skills  
 
 ---
 
